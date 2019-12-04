@@ -1,0 +1,213 @@
+﻿Bioma;Estado;Número de registros;Período;Área Desmatada recalculada pela Conica (ha)
+Caatinga;Alagoas;1;<=2002;1032251,206
+Caatinga;Alagoas;1;2002-2008;35094,86835
+Caatinga;Alagoas;1;<=2008;7068,239672
+Caatinga;Alagoas;1;2008-2009;2342,149018
+Caatinga;Alagoas;1;<=2009;2877,130951
+Caatinga;Bahia;1;<=2002;14962140,41
+Caatinga;Bahia;1;2002-2008;452789,0028
+Caatinga;Bahia;1;<=2008;696964,8409
+Caatinga;Bahia;1;2008-2009;63203,41363
+Caatinga;Bahia;1;<=2009;61872,16951
+Caatinga;Ceará;1;<=2002;5472094,823
+Caatinga;Ceará;1;2002-2008;413340,2563
+Caatinga;Ceará;1;<=2008;79347,19604
+Caatinga;Ceará;1;2008-2009;43889,08465
+Caatinga;Ceará;1;<=2009;59130,91561
+Caatinga;Maranhão;1;<=2002;113412,3114
+Caatinga;Maranhão;1;2002-2008;9760,573096
+Caatinga;Maranhão;1;<=2008;1252,995611
+Caatinga;Maranhão;1;2008-2009;3234,364697
+Caatinga;Maranhão;1;<=2009;2591,143128
+Caatinga;Minas Gerais;1;<=2002;537156,4758
+Caatinga;Minas Gerais;1;2002-2008;35960,30991
+Caatinga;Minas Gerais;1;<=2008;7695,253411
+Caatinga;Minas Gerais;1;2008-2009;1515,922837
+Caatinga;Minas Gerais;1;<=2009;6134,212018
+Caatinga;Paraíba;1;<=2002;2235231,565
+Caatinga;Paraíba;1;2002-2008;101338,0878
+Caatinga;Paraíba;1;<=2008;77208,13563
+Caatinga;Paraíba;1;2008-2009;9243,219469
+Caatinga;Paraíba;1;<=2009;18780,15359
+Caatinga;Pernambuco;1;<=2002;4113355,523
+Caatinga;Pernambuco;1;2002-2008;220567,0915
+Caatinga;Pernambuco;1;<=2008;69556,16159
+Caatinga;Pernambuco;1;2008-2009;16763,52504
+Caatinga;Pernambuco;1;<=2009;23024,34719
+Caatinga;Piauí;1;<=2002;4578233,987
+Caatinga;Piauí;1;2002-2008;258639,906
+Caatinga;Piauí;1;<=2008;64547,70448
+Caatinga;Piauí;1;2008-2009;41096,54463
+Caatinga;Piauí;1;<=2009;46489,45161
+Caatinga;Rio Grande do Norte;1;<=2002;2142059,787
+Caatinga;Rio Grande do Norte;1;2002-2008;114363,5109
+Caatinga;Rio Grande do Norte;1;<=2008;59348,88444
+Caatinga;Rio Grande do Norte;1;2008-2009;9760,275404
+Caatinga;Rio Grande do Norte;1;<=2009;7448,573115
+Caatinga;Sergipe;1;<=2002;668227,9057
+Caatinga;Sergipe;1;2002-2008;15770,26192
+Caatinga;Sergipe;1;<=2008;122987,319
+Caatinga;Sergipe;1;2008-2009;439,577266
+Caatinga;Sergipe;1;<=2009;2730,000365
+Cerrado;Bahia;1;<=2002;4530375,957
+Cerrado;Bahia;1;2002-2008;957077,1987
+Cerrado;Bahia;1;<=2008;6493,568131
+Cerrado;Bahia;1;<=2009;64809,70453
+Cerrado;Bahia;1;2008-2009;99515,0649
+Cerrado;Bahia;1;2009-2010;71670,88294
+Cerrado;Bahia;1;<=2010;24592,73301
+Cerrado;Bahia;1;2010-2011;100317,6627
+Cerrado;Distrito Federal;1;<=2002;393785,1367
+Cerrado;Distrito Federal;1;2002-2008;8431,060077
+Cerrado;Distrito Federal;1;<=2008;84,355388
+Cerrado;Distrito Federal;1;<=2009;2170,210177
+Cerrado;Distrito Federal;1;2008-2009;107,028701
+Cerrado;Distrito Federal;1;2009-2010;476,966231
+Cerrado;Distrito Federal;1;<=2010;814,115746
+Cerrado;Distrito Federal;1;2010-2011;225,419675
+Cerrado;Goiás;1;<=2002;20287503,59
+Cerrado;Goiás;1;2002-2008;1005688,931
+Cerrado;Goiás;1;<=2008;12446,09025
+Cerrado;Goiás;1;<=2009;464875,2924
+Cerrado;Goiás;1;2008-2009;66447,25345
+Cerrado;Goiás;1;2009-2010;59361,89237
+Cerrado;Goiás;1;<=2010;71705,99687
+Cerrado;Goiás;1;2010-2011;64071,68095
+Cerrado;Maranhão;1;<=2002;3259774,681
+Cerrado;Maranhão;1;2002-2008;1440438,346
+Cerrado;Maranhão;1;<=2008;14000,62523
+Cerrado;Maranhão;1;<=2009;417568,3733
+Cerrado;Maranhão;1;2008-2009;233784,3151
+Cerrado;Maranhão;1;2009-2010;158379,0027
+Cerrado;Maranhão;1;<=2010;68207,15941
+Cerrado;Maranhão;1;2010-2011;131059,3171
+Cerrado;Mato Grosso;1;<=2002;13450569,31
+Cerrado;Mato Grosso;1;2002-2008;1795706,317
+Cerrado;Mato Grosso;1;<=2008;9076,717674
+Cerrado;Mato Grosso;1;<=2009;235794,8964
+Cerrado;Mato Grosso;1;2008-2009;83367,91288
+Cerrado;Mato Grosso;1;2009-2010;76989,17816
+Cerrado;Mato Grosso;1;<=2010;47957,07319
+Cerrado;Mato Grosso;1;2010-2011;79791,47857
+Cerrado;Mato Grosso do Sul;1;<=2002;15643640,09
+Cerrado;Mato Grosso do Sul;1;2002-2008;665163,4905
+Cerrado;Mato Grosso do Sul;1;<=2008;6737,552835
+Cerrado;Mato Grosso do Sul;1;<=2009;108718,6402
+Cerrado;Mato Grosso do Sul;1;2008-2009;24145,90334
+Cerrado;Mato Grosso do Sul;1;2009-2010;31036,67538
+Cerrado;Mato Grosso do Sul;1;<=2010;31988,62903
+Cerrado;Mato Grosso do Sul;1;2010-2011;31178,61371
+Cerrado;Minas Gerais;1;<=2002;17700120,26
+Cerrado;Minas Gerais;1;2002-2008;898947,3265
+Cerrado;Minas Gerais;1;<=2008;13737,5933
+Cerrado;Minas Gerais;1;<=2009;664544,7912
+Cerrado;Minas Gerais;1;2008-2009;53471,15853
+Cerrado;Minas Gerais;1;2009-2010;52434,84943
+Cerrado;Minas Gerais;1;<=2010;109467,8219
+Cerrado;Minas Gerais;1;2010-2011;72058,74166
+Cerrado;Pará;1;<=2002;808,22556
+Cerrado;Paraná;1;<=2002;261679,1891
+Cerrado;Paraná;1;2002-2008;5,093911
+Cerrado;Paraná;1;<=2008;222,844854
+Cerrado;Paraná;1;<=2009;24367,67044
+Cerrado;Paraná;1;2008-2009;117,753005
+Cerrado;Paraná;1;2009-2010;108,282973
+Cerrado;Paraná;1;<=2010;766,36378
+Cerrado;Paraná;1;2010-2011;207,151568
+Cerrado;Piauí;1;<=2002;947039,4652
+Cerrado;Piauí;1;2002-2008;427712,3613
+Cerrado;Piauí;1;<=2008;1442,963331
+Cerrado;Piauí;1;<=2009;65070,04867
+Cerrado;Piauí;1;2008-2009;70107,97219
+Cerrado;Piauí;1;2009-2010;98035,60106
+Cerrado;Piauí;1;<=2010;9220,476675
+Cerrado;Piauí;1;2010-2011;129227,0467
+Cerrado;Rondônia;1;<=2002;489,718719
+Cerrado;Rondônia;1;2002-2008;811,088297
+Cerrado;Rondônia;1;<=2009;8,44069
+Cerrado;Rondônia;1;2008-2009;82,850663
+Cerrado;Rondônia;1;2009-2010;5,724421
+Cerrado;São Paulo;1;<=2002;7116323,302
+Cerrado;São Paulo;1;2002-2008;89587,66233
+Cerrado;São Paulo;1;<=2008;817,225126
+Cerrado;São Paulo;1;<=2009;26906,02051
+Cerrado;São Paulo;1;2008-2009;758,05678
+Cerrado;São Paulo;1;2009-2010;326,85958
+Cerrado;São Paulo;1;<=2010;3500,604805
+Cerrado;São Paulo;1;2010-2011;487,140453
+Cerrado;Tocantins;1;<=2002;5207606,178
+Cerrado;Tocantins;1;2002-2008;1163260,926
+Cerrado;Tocantins;1;<=2008;15006,5521
+Cerrado;Tocantins;1;<=2009;373979,8384
+Cerrado;Tocantins;1;2008-2009;131714,9247
+Cerrado;Tocantins;1;2009-2010;98094,17045
+Cerrado;Tocantins;1;<=2010;121493,5046
+Cerrado;Tocantins;1;2010-2011;116038,8512
+Mata Atlântica;Alagoas;1;<=2002;1241780,95
+Mata Atlântica;Alagoas;1;2002-2008;428,127264
+Mata Atlântica;Alagoas;1;<=2008;41019,11826
+Mata Atlântica;Bahia;1;<=2002;8251374,075
+Mata Atlântica;Bahia;1;2002-2008;42630,88911
+Mata Atlântica;Bahia;1;<=2008;141357,2876
+Mata Atlântica;Bahia;1;2008-2009;6582,300805
+Mata Atlântica;Espírito Santo;1;<=2002;3658670,329
+Mata Atlântica;Espírito Santo;1;2002-2008;7395,397233
+Mata Atlântica;Espírito Santo;1;<=2008;88429,06982
+Mata Atlântica;Espírito Santo;1;2008-2009;206,711242
+Mata Atlântica;Goiás;1;<=2002;790977,9483
+Mata Atlântica;Goiás;1;2002-2008;2426,948342
+Mata Atlântica;Goiás;1;<=2008;41310,19843
+Mata Atlântica;Goiás;1;2008-2009;158,600108
+Mata Atlântica;Mato Grosso do Sul;1;<=2002;3850154,349
+Mata Atlântica;Mato Grosso do Sul;1;2002-2008;5960,682416
+Mata Atlântica;Mato Grosso do Sul;1;<=2008;59831,35053
+Mata Atlântica;Mato Grosso do Sul;1;2008-2009;972,928862
+Mata Atlântica;Minas Gerais;1;<=2002;17995043,46
+Mata Atlântica;Minas Gerais;1;2002-2008;90926,88275
+Mata Atlântica;Minas Gerais;1;<=2008;413647,4221
+Mata Atlântica;Minas Gerais;1;2008-2009;11575,78193
+Mata Atlântica;Paraíba;1;<=2002;407689,1504
+Mata Atlântica;Paraíba;1;2002-2008;786,166116
+Mata Atlântica;Paraná;1;<=2002;15330695,04
+Mata Atlântica;Paraná;1;2002-2008;54221,10303
+Mata Atlântica;Paraná;1;<=2008;240997,0842
+Mata Atlântica;Paraná;1;2008-2009;1408,334595
+Mata Atlântica;Pernambuco;1;<=2002;1446299,596
+Mata Atlântica;Pernambuco;1;2002-2008;1701,06465
+Mata Atlântica;Pernambuco;1;<=2008;23303,36546
+Mata Atlântica;Pernambuco;1;2008-2009;28,874019
+Mata Atlântica;Rio de Janeiro;1;<=2002;3157647,844
+Mata Atlântica;Rio de Janeiro;1;2002-2008;4233,044299
+Mata Atlântica;Rio de Janeiro;1;<=2008;28028,94253
+Mata Atlântica;Rio de Janeiro;1;2008-2009;36,669652
+Mata Atlântica;Rio Grande do Norte;1;<=2002;217042,3937
+Mata Atlântica;Rio Grande do Norte;1;2002-2008;486,90898
+Mata Atlântica;Rio Grande do Sul;1;<=2002;7635896,121
+Mata Atlântica;Rio Grande do Sul;1;2002-2008;16875,25849
+Mata Atlântica;Rio Grande do Sul;1;<=2008;196608,5922
+Mata Atlântica;Rio Grande do Sul;1;2008-2009;726,677722
+Mata Atlântica;Santa Catarina;1;<=2002;5845171,364
+Mata Atlântica;Santa Catarina;1;2002-2008;32853,18693
+Mata Atlântica;Santa Catarina;1;<=2008;267528,7837
+Mata Atlântica;Santa Catarina;1;2008-2009;1761,465825
+Mata Atlântica;Sergipe;1;<=2002;968666,9738
+Mata Atlântica;Sergipe;1;2002-2008;5241,138857
+Mata Atlântica;Sergipe;1;<=2008;28405,34796
+Mata Atlântica;Sergipe;1;2008-2009;79,018838
+Mata Atlântica;São Paulo;1;<=2002;12686878,91
+Mata Atlântica;São Paulo;1;2002-2008;8068,601078
+Mata Atlântica;São Paulo;1;<=2008;235610,9143
+Mata Atlântica;São Paulo;1;2008-2009;1334,245048
+Pampa;Rio Grande do Sul;1;<=2002;9435764,811
+Pampa;Rio Grande do Sul;1;2002-2008;217933,8823
+Pampa;Rio Grande do Sul;1;<=2008;149432,8651
+Pampa;Rio Grande do Sul;1;2008-2009;33074,71891
+Pampa;Rio Grande do Sul;1;<=2009;4593,250683
+Pantanal;Mato Grosso;1;<=2002;999106,8019
+Pantanal;Mato Grosso;1;2002-2008;149522,2713
+Pantanal;Mato Grosso;1;<=2009;19793,67521
+Pantanal;Mato Grosso;1;2008-2009;8921,559148
+Pantanal;Mato Grosso do Sul;1;<=2002;871944,5558
+Pantanal;Mato Grosso do Sul;1;2002-2008;278436,9956
+Pantanal;Mato Grosso do Sul;1;<=2009;25176,87076
+Pantanal;Mato Grosso do Sul;1;2008-2009;9925,748323
