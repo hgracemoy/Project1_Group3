@@ -1,0 +1,26 @@
+City,Lat,Lng,Country,ISO2,State,Capital,Population,Population_Proper,State Long,Biome,Rainfall Rating,Rainfall Highest,Rainfall Highest Year,Rainfall Rating LA,Rainfall Highest LA,Rainfall Highest Year LA,Rainfall Rating Lowest,Rainfall Lowest,Rainfall Lowest Year,Rainfall Rating Lowest LA,Rainfall Lowest LA,Rainfall Lowest Year LA,Forestfire Rating,Forestfire Highest,Forestfire Highest Year,Forestfire Rating LA,Forestfire Highest LA,Forestfire Highest Year LA,Forestfire Rating Lowest,Forestfire Lowest,Forestfire Lowest Year,Forestfire Rating Lowest LA,Forestfire Lowest LA,Forestfire Lowest Year LA
+Rio Branco,-9.966667,-67.8,Brazil,BR,AC,admin,257642,257642,Acre,LA,19,1619,2011,8,2055,2006,20,"1,927",2001,6,2012.4,2015,10,"7,042",2017,6,"7,042",2017,12,434,2000,2,434,2000
+Maceio,-9.652406,-35.722433,Brazil,BR,AL,admin,1186000,814431,Alagoas,Non-LA,7,2373,2011,,,,16,"1,605",2001,,,,24,159,2017,,,,4,123,2000,,,
+Manaus,-3.113333,-60.025278,Brazil,BR,AM,admin,1753000,1520244,Amazonas,LA,3,2780,2011,2,2305,2006,19,"1,798",2001,5,1735.7,2015,5,"14,798",2017,5,"14,798",2017,14,853,2000,3,853,2000
+Macapa,0.035158,-51.061633,Brazil,BR,AP,admin,499166,368397,Amapa,LA,5,2558,2011,4,2820,2006,22,"2,114",2001,7,2421.8,2015,16,"1,465",2017,8,,,7,253,2000,,,
+Salvador,-12.983333,-38.516667,Brazil,BR,BA,admin,3484000,2678845,Bahia,Non-LA,12,2169,2011,,,,18,"1,777",2001,,,,9,"8,249",2017,,,,19,"3,993",2000,,,
+Fortaleza,-3.737464,-38.546167,Brazil,BR,CE,admin,3602319,2315116,Ceara,Non-LA,8,2261,2011,,,,7,825,2001,,,,14,"2,555",2017,,,,15,"2,211",2000,,,
+Brazilia,-15.77972,-47.92972,Brazil,BR,DF,admin,2570160,3015268,Distrito Federal,Non-LA,22,1559,2011,,,,11,"1,286",2001,,,,20,410,2017,,,,2,48,2000,,,
+Vitoria,-20.332179,-40.345011,Brazil,BR,ES,admin,1704000,312656,Espirito Santo,Non-LA,21,1591,2011,,,,3,362,2001,,,,23,234,2017,,,,6,175,2000,,,
+Goiania,-16.701028,-49.266793,Brazil,BR,GO,admin,2022000,1171195,Goias,Non-LA,16,1813,2011,,,,17,"1,767",2001,,,,8,"8,705",2017,,,,18,"3,808",2000,,,
+Sao Luis,-2.532519,-44.296299,Brazil,BR,MA,admin,1038000,11385,Maranhao,LA,4,2713,2011,3,2354,2006,24,"2,480",2001,4,1507.2,2015,3,"28,639",2017,3,"28,639",2017,23,"8,983",2000,5,"8,983",2000
+Belo Horizonte,-19.901739,-43.964196,Brazil,BR,MG,admin,5575000,2373224,Minas Gerais,Non-LA,13,2026,2011,,,,14,"1,459",2001,,,,6,"11,473",2017,,,,17,"3,552",2000,,,
+Cuiaba,-15.596,-56.097,Brazil,BR,MT,admin,806000,400287,Mato Grosso,LA,18,1673,2011,7,1518,2006,9,"1,226",2001,2,1382.4,2015,2,"36,344",2017,2,"36,344",2017,25,"26,064",2000,7,"26,064",2000
+Belem,-1.437281,-48.470614,Brazil,BR,PA,admin,2167000,1407737,Para,LA,1,3592,2011,1,3664,2006,25,"3,304",2001,8,3445.2,2015,1,"59,771",2017,1,"59,771",2017,24,"18,207",2000,6,"18,207",2000
+Joao Pessoa,-7.123742,-34.865646,Brazil,BR,PB,admin,956000,650883,Paraiba,Non-LA,6,2414,2011,,,,8,"1,179",2001,,,,22,294,2017,,,,8,259,2000,,,
+Recife,-8.05,-34.9,Brazil,BR,PE,admin,3651000,1478098,Pernambuco,Non-LA,2,3246,2011,,,,21,"1,986",2001,,,,19,522,2017,,,,13,691,2000,,,
+Teresina,-5.102887,-42.801549,Brazil,BR,PI,admin,907000,586721,Piaui,Non-LA,20,1591,2011,,,,2,350,2001,,,,7,"9,478",2017,,,,21,"4,765",2000,,,
+Curitiba,-25.416667,-49.25,Brazil,BR,PR,admin,3084000,1498860,Parana,Non-LA,15,1815,2011,,,,5,484,2001,,,,12,"4,463",2017,,,,16,"2,545",2000,,,
+Rio de Janeiro,-22.875113,-43.277548,Brazil,BR,RJ,admin,11748000,2010175,Rio de Janeiro,Non-LA,25,889,2011,,,,1,,2001,,,,17,"1,397",2017,,,,3,121,2000,,,
+Natal,-5.80021,-35.210669,Brazil,BR,RN,admin,1088000,763043,Rio Grande do Norte,Non-LA,11,2189,2011,,,,10,"1,267",2001,,,,21,299,2017,,,,5,145,2000,,,
+Boa Vista,2.820842,-60.671312,Brazil,BR,RR,admin,235150,169449,Roraima,LA,10,2239,2011,5,2493,2006,12,"1,325",2001,1,1312.7,2015,18,"1,101",2017,7,"1,101",2017,10,362,2000,1,362,2000
+Porto Alegre,-30.033333,-51.2,Brazil,BR,RS,admin,3917000,1372741,Rio Grande do Sul,Non-LA,23,1321,2011,,,,4,367,2001,,,,13,"2,575",2017,,,,11,384,2000,,,
+Florianopolis,-27.590444,-48.57581,Brazil,BR,SC,admin,1023000,114566,Santa Catarina,Non-LA,9,2260,2011,,,,6,518,2001,,,,15,"2,354",2017,,,,9,306,2000,,,
+Aracaju,-10.916667,-37.066667,Brazil,BR,SE,admin,685356,490175,Sergipe,Non-LA,24,1305,2011,,,,15,"1,479",2001,,,,25,75,2017,,,,1,17,2000,,,
+San Paulo,-23.573252,-46.641681,Brazil,BR,SP,admin,18845000,10021295,San Paulo,Non-LA,17,1700,2011,,,,13,"1,455",2001,,,,11,"5,406",2017,,,,20,"4,128",2000,,,
+Palmas,-10.166944,-48.332778,Brazil,BR,TO,admin,235315,196272,Tocantins,LA,14,2006,2011,6,2149,2006,23,"2,172",2001,3,1393.7,2015,4,"21,129",2017,4,"21,129",2017,22,"6,542",2000,4,"6,542",2000
